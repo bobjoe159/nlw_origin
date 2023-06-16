@@ -5,4 +5,4 @@ código limpo,
 Plugins/bibliotecas externas de JavaScript,
 Utilização de variáveis nas cores.
 
-APENAS Versão mobile: https://bobjoe159.github.io/NlwOrigin/
+APENAS Versão mobile: https://pedrofeitosa97.github.io/NlwOrigin/
